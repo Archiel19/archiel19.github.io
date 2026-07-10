@@ -12,7 +12,7 @@ profile:
     <p>Coriolis Building, 4th floor, B402</p>
     <p>École des Ponts ParisTech</p>
     <p>6-8, Av Blaise Pascal</p>
-    <p>77455 Marne-la-Vallée cedex 2, France</p>
+    <p>77455 Marne-la-Vallée, France</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

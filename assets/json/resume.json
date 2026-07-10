@@ -1,13 +1,12 @@
 {
   "basics": {
-    "name": "Marta López Rauhut",
+    "name": "Marta LÓPEZ RAUHUT",
     "label": "PhD student",
     "image": "",
     "email": "marta.lopez-rauhut@enpc.fr",
     "phone": "+33 07 66 77 45 00",
-    "summary": "",
     "location": {
-      "address": "Av. Gabriel Péri",
+      "address": "48 Av. Gabriel Péri",
       "postalCode": "93160",
       "city": "Noisy-le-Grand",
       "countryCode": "FR",
@@ -36,16 +35,16 @@
       "endDate": "Mar 2020",
       "summary": "Taught an introductory programming course for elementary school students based on game development in Scratch.",
       "highlights": []
-    },
+    }
   ],
   "volunteer": [
     {
       "organization": "Fair Trade",
       "location": "Santander, Spain",
-      "position": "Salesperson, Administrative Assistant",
+      "position": "Volunteer Salesperson and Administrative Assistant",
       "startDate": "2018",
-      "endDate": "Jun 2023",
-      "summary": "",
+      "endDate": "2023",
+      "summary": "Distributed fair trade products from brands such as Ethiquable and managed stock inventories.",
       "highlights": []
     }
   ],
@@ -65,6 +64,7 @@
     {
       "institution": "Université Gustave Eiffel",
       "location": "Paris, France",
+      "url": "https://www.univ-gustave-eiffel.fr/",
       "area": "Imaging Sciences",
       "studyType": "Master's Degree",
       "startDate": "Sep 2023",
@@ -76,6 +76,7 @@
     {
       "institution": "University of Cantabria",
       "location": "Santander, Spain",
+      "url": "https://web.unican.es/",
       "area": "Computer Engineering",
       "studyType": "Bachelor's Degree",
       "startDate": "Sep 2019",
@@ -156,7 +157,7 @@
       "language": "Chinese",
       "fluency": "Intermediate",
       "icon": ""
-    },
+    }
   ],
   "interests": [],
   "references": [],
